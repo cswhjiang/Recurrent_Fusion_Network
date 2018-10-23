@@ -1,0 +1,1102 @@
+[
+  {
+    "image_id": 0,
+    "test": "a person has in the ground on a colorful kite in the hand",
+    "refs": [
+      "a blue kite is flying in a field",
+      "people at a park with kites that have characters on them",
+      "colorful kites with different UNK fly in a park",
+      "different kites flying around in a field with a bunch of people",
+      "some children are flying large kites in the park"
+    ]
+  },
+  {
+    "image_id": 1,
+    "test": "a bunch of colored kites hanging from a UNK post",
+    "refs": [
+      "a blue kite is flying in a field",
+      "people at a park with kites that have characters on them",
+      "colorful kites with different UNK fly in a park",
+      "different kites flying around in a field with a bunch of people",
+      "some children are flying large kites in the park"
+    ]
+  },
+  {
+    "image_id": 2,
+    "test": "there are several kites that are in the air",
+    "refs": [
+      "a blue kite is flying in a field",
+      "people at a park with kites that have characters on them",
+      "colorful kites with different UNK fly in a park",
+      "different kites flying around in a field with a bunch of people",
+      "some children are flying large kites in the park"
+    ]
+  },
+  {
+    "image_id": 3,
+    "test": "a man in black shirt and a black top with a kite",
+    "refs": [
+      "a blue kite is flying in a field",
+      "people at a park with kites that have characters on them",
+      "colorful kites with different UNK fly in a park",
+      "different kites flying around in a field with a bunch of people",
+      "some children are flying large kites in the park"
+    ]
+  },
+  {
+    "image_id": 4,
+    "test": "a people mandarin kites display giant sprinkles on the",
+    "refs": [
+      "a blue kite is flying in a field",
+      "people at a park with kites that have characters on them",
+      "colorful kites with different UNK fly in a park",
+      "different kites flying around in a field with a bunch of people",
+      "some children are flying large kites in the park"
+    ]
+  },
+  {
+    "image_id": 5,
+    "test": "rear view of chives meter with in front of yellow hydrants",
+    "refs": [
+      "a parking meter stands in front of a building entrance",
+      "a parking meter sitting in front of a building next to a handicap sign",
+      "a parking meter on the sidewalk near handicapped access signs",
+      "a parking meter sitting in front of a handicap entrance",
+      "a double parking meter on the sidewalk with a wheelchair ramp behind it"
+    ]
+  },
+  {
+    "image_id": 6,
+    "test": "parking meters in the road of a city intersection",
+    "refs": [
+      "a parking meter stands in front of a building entrance",
+      "a parking meter sitting in front of a building next to a handicap sign",
+      "a parking meter on the sidewalk near handicapped access signs",
+      "a parking meter sitting in front of a handicap entrance",
+      "a double parking meter on the sidewalk with a wheelchair ramp behind it"
+    ]
+  },
+  {
+    "image_id": 7,
+    "test": "a parking meter next to a brick wall",
+    "refs": [
+      "a parking meter stands in front of a building entrance",
+      "a parking meter sitting in front of a building next to a handicap sign",
+      "a parking meter on the sidewalk near handicapped access signs",
+      "a parking meter sitting in front of a handicap entrance",
+      "a double parking meter on the sidewalk with a wheelchair ramp behind it"
+    ]
+  },
+  {
+    "image_id": 8,
+    "test": "a parking meter is on a cobblestone street",
+    "refs": [
+      "a parking meter stands in front of a building entrance",
+      "a parking meter sitting in front of a building next to a handicap sign",
+      "a parking meter on the sidewalk near handicapped access signs",
+      "a parking meter sitting in front of a handicap entrance",
+      "a double parking meter on the sidewalk with a wheelchair ramp behind it"
+    ]
+  },
+  {
+    "image_id": 9,
+    "test": "three way meters are a a beside a brick sidewalk",
+    "refs": [
+      "a parking meter stands in front of a building entrance",
+      "a parking meter sitting in front of a building next to a handicap sign",
+      "a parking meter on the sidewalk near handicapped access signs",
+      "a parking meter sitting in front of a handicap entrance",
+      "a double parking meter on the sidewalk with a wheelchair ramp behind it"
+    ]
+  },
+  {
+    "image_id": 10,
+    "test": "people woman is holding a very piece of food",
+    "refs": [
+      "a couple of young men sitting down sharing a pizza",
+      "two men pose for the camera with pizza and beer",
+      "two young men are eating pizza with beer",
+      "two friends having pizza and beer in a cafe",
+      "two men sit in a booth with pizza in front of them"
+    ]
+  },
+  {
+    "image_id": 11,
+    "test": "a man that is sitting down with a glass of food",
+    "refs": [
+      "a couple of young men sitting down sharing a pizza",
+      "two men pose for the camera with pizza and beer",
+      "two young men are eating pizza with beer",
+      "two friends having pizza and beer in a cafe",
+      "two men sit in a booth with pizza in front of them"
+    ]
+  },
+  {
+    "image_id": 12,
+    "test": "small boy sitting at tray of breakfast and drinking beer",
+    "refs": [
+      "a couple of young men sitting down sharing a pizza",
+      "two men pose for the camera with pizza and beer",
+      "two young men are eating pizza with beer",
+      "two friends having pizza and beer in a cafe",
+      "two men sit in a booth with pizza in front of them"
+    ]
+  },
+  {
+    "image_id": 13,
+    "test": "a man sitting at a table with is sitting a hot dog next to a bottle",
+    "refs": [
+      "a couple of young men sitting down sharing a pizza",
+      "two men pose for the camera with pizza and beer",
+      "two young men are eating pizza with beer",
+      "two friends having pizza and beer in a cafe",
+      "two men sit in a booth with pizza in front of them"
+    ]
+  },
+  {
+    "image_id": 14,
+    "test": "two guy eating a of diners with one wine glass in the background a pizzeria",
+    "refs": [
+      "a couple of young men sitting down sharing a pizza",
+      "two men pose for the camera with pizza and beer",
+      "two young men are eating pizza with beer",
+      "two friends having pizza and beer in a cafe",
+      "two men sit in a booth with pizza in front of them"
+    ]
+  },
+  {
+    "image_id": 15,
+    "test": "a boy doing and jumping a skate board",
+    "refs": [
+      "a young man jumping a skateboard over another young man",
+      "a man is jumping his skate board while another man sits",
+      "kid sits on the edge while another jumps over riding a skateboard",
+      "the skateboarder is jumping over the other boy",
+      "a person on a skateboard jumping up in the air"
+    ]
+  },
+  {
+    "image_id": 16,
+    "test": "a man doing skateboard tricks trick in front of power",
+    "refs": [
+      "a young man jumping a skateboard over another young man",
+      "a man is jumping his skate board while another man sits",
+      "kid sits on the edge while another jumps over riding a skateboard",
+      "the skateboarder is jumping over the other boy",
+      "a person on a skateboard jumping up in the air"
+    ]
+  },
+  {
+    "image_id": 17,
+    "test": "a man flipping another person jumping on an object",
+    "refs": [
+      "a young man jumping a skateboard over another young man",
+      "a man is jumping his skate board while another man sits",
+      "kid sits on the edge while another jumps over riding a skateboard",
+      "the skateboarder is jumping over the other boy",
+      "a person on a skateboard jumping up in the air"
+    ]
+  },
+  {
+    "image_id": 18,
+    "test": "a skateboarder is jumping high in the air",
+    "refs": [
+      "a young man jumping a skateboard over another young man",
+      "a man is jumping his skate board while another man sits",
+      "kid sits on the edge while another jumps over riding a skateboard",
+      "the skateboarder is jumping over the other boy",
+      "a person on a skateboard jumping up in the air"
+    ]
+  },
+  {
+    "image_id": 19,
+    "test": "skateboarder kite being simultaneously doing a rail stunt",
+    "refs": [
+      "a young man jumping a skateboard over another young man",
+      "a man is jumping his skate board while another man sits",
+      "kid sits on the edge while another jumps over riding a skateboard",
+      "the skateboarder is jumping over the other boy",
+      "a person on a skateboard jumping up in the air"
+    ]
+  },
+  {
+    "image_id": 20,
+    "test": "a young man on up side of street empty street at dusk",
+    "refs": [
+      "a skateboarder jumping over an obstacle at sunset",
+      "a man doing a skateboard jump over a red structure",
+      "a skateboarder jumping a orange construction pile in a parking lot",
+      "a young man wearing blue jeans hovers on his skateboard in the air over a red",
+      "a person jumping on a skateboard over something"
+    ]
+  },
+  {
+    "image_id": 21,
+    "test": "a skateboarder doing riding stunts on their skate ramp",
+    "refs": [
+      "a skateboarder jumping over an obstacle at sunset",
+      "a man doing a skateboard jump over a red structure",
+      "a skateboarder jumping a orange construction pile in a parking lot",
+      "a young man wearing blue jeans hovers on his skateboard in the air over a red",
+      "a person jumping on a skateboard over something"
+    ]
+  },
+  {
+    "image_id": 22,
+    "test": "man sitting hanging down in a red suitcase",
+    "refs": [
+      "a skateboarder jumping over an obstacle at sunset",
+      "a man doing a skateboard jump over a red structure",
+      "a skateboarder jumping a orange construction pile in a parking lot",
+      "a young man wearing blue jeans hovers on his skateboard in the air over a red",
+      "a person jumping on a skateboard over something"
+    ]
+  },
+  {
+    "image_id": 23,
+    "test": "a man riding a skateboard in the middle of a parking lot",
+    "refs": [
+      "a skateboarder jumping over an obstacle at sunset",
+      "a man doing a skateboard jump over a red structure",
+      "a skateboarder jumping a orange construction pile in a parking lot",
+      "a young man wearing blue jeans hovers on his skateboard in the air over a red",
+      "a person jumping on a skateboard over something"
+    ]
+  },
+  {
+    "image_id": 24,
+    "test": "a man climbing someone on a skateboard up a ramp",
+    "refs": [
+      "a skateboarder jumping over an obstacle at sunset",
+      "a man doing a skateboard jump over a red structure",
+      "a skateboarder jumping a orange construction pile in a parking lot",
+      "a young man wearing blue jeans hovers on his skateboard in the air over a red",
+      "a person jumping on a skateboard over something"
+    ]
+  },
+  {
+    "image_id": 25,
+    "test": "a black bear standing in the woods a tree",
+    "refs": [
+      "an animal on a grassy field of some sort",
+      "a large black bear walking in the grass",
+      "a bear that is walking back towards the trees",
+      "animal walking in a heavily UNK clearing in a wooded area",
+      "a large black bear walking through a forest"
+    ]
+  },
+  {
+    "image_id": 26,
+    "test": "a bear swan through a grassy field near a fallen tree tree",
+    "refs": [
+      "an animal on a grassy field of some sort",
+      "a large black bear walking in the grass",
+      "a bear that is walking back towards the trees",
+      "animal walking in a heavily UNK clearing in a wooded area",
+      "a large black bear walking through a forest"
+    ]
+  },
+  {
+    "image_id": 27,
+    "test": "a brown bear walking in the grass near trees",
+    "refs": [
+      "an animal on a grassy field of some sort",
+      "a large black bear walking in the grass",
+      "a bear that is walking back towards the trees",
+      "animal walking in a heavily UNK clearing in a wooded area",
+      "a large black bear walking through a forest"
+    ]
+  },
+  {
+    "image_id": 28,
+    "test": "a black bear stands down the grassy while looking up into the trees",
+    "refs": [
+      "an animal on a grassy field of some sort",
+      "a large black bear walking in the grass",
+      "a bear that is walking back towards the trees",
+      "animal walking in a heavily UNK clearing in a wooded area",
+      "a large black bear walking through a forest"
+    ]
+  },
+  {
+    "image_id": 29,
+    "test": "a horse is walking through a inter forest",
+    "refs": [
+      "an animal on a grassy field of some sort",
+      "a large black bear walking in the grass",
+      "a bear that is walking back towards the trees",
+      "animal walking in a heavily UNK clearing in a wooded area",
+      "a large black bear walking through a forest"
+    ]
+  },
+  {
+    "image_id": 30,
+    "test": "a large jet flying low the sunset above the ground",
+    "refs": [
+      "a large jetliner flying through a cloudy sky over trees",
+      "a large airplane flying high up in the sky",
+      "a plane flying through the sky as the sun is setting",
+      "an airplane is landing near some trees at sunset",
+      "an airplane in the sky over a group of trees"
+    ]
+  },
+  {
+    "image_id": 31,
+    "test": "an airplane flys over a forest under a cloudy sky",
+    "refs": [
+      "a large jetliner flying through a cloudy sky over trees",
+      "a large airplane flying high up in the sky",
+      "a plane flying through the sky as the sun is setting",
+      "an airplane is landing near some trees at sunset",
+      "an airplane in the sky over a group of trees"
+    ]
+  },
+  {
+    "image_id": 32,
+    "test": "a large plane in the air above an wide",
+    "refs": [
+      "a large jetliner flying through a cloudy sky over trees",
+      "a large airplane flying high up in the sky",
+      "a plane flying through the sky as the sun is setting",
+      "an airplane is landing near some trees at sunset",
+      "an airplane in the sky over a group of trees"
+    ]
+  },
+  {
+    "image_id": 33,
+    "test": "a plane emerging from a plant high a area",
+    "refs": [
+      "a large jetliner flying through a cloudy sky over trees",
+      "a large airplane flying high up in the sky",
+      "a plane flying through the sky as the sun is setting",
+      "an airplane is landing near some trees at sunset",
+      "an airplane in the sky over a group of trees"
+    ]
+  },
+  {
+    "image_id": 34,
+    "test": "we are looking up at the tail of two plane takes off wand a the sky",
+    "refs": [
+      "a large jetliner flying through a cloudy sky over trees",
+      "a large airplane flying high up in the sky",
+      "a plane flying through the sky as the sun is setting",
+      "an airplane is landing near some trees at sunset",
+      "an airplane in the sky over a group of trees"
+    ]
+  },
+  {
+    "image_id": 35,
+    "test": "a old fashioned ride dressed a horse being horses down a street",
+    "refs": [
+      "a group of men riding horses on a street",
+      "a group of uniformed men on horseback ride down a street",
+      "a white horse carrying a uniformed man is followed by several other black horses walking down",
+      "a parade led by a soldier on a white horse",
+      "a gentleman in military dress clothes on a white horse with other men on horses behind"
+    ]
+  },
+  {
+    "image_id": 36,
+    "test": "the group of horses street carrying people",
+    "refs": [
+      "a group of men riding horses on a street",
+      "a group of uniformed men on horseback ride down a street",
+      "a white horse carrying a uniformed man is followed by several other black horses walking down",
+      "a parade led by a soldier on a white horse",
+      "a gentleman in military dress clothes on a white horse with other men on horses behind"
+    ]
+  },
+  {
+    "image_id": 37,
+    "test": "a city with horses being used as a crowd of horses",
+    "refs": [
+      "a group of men riding horses on a street",
+      "a group of uniformed men on horseback ride down a street",
+      "a white horse carrying a uniformed man is followed by several other black horses walking down",
+      "a parade led by a soldier on a white horse",
+      "a gentleman in military dress clothes on a white horse with other men on horses behind"
+    ]
+  },
+  {
+    "image_id": 38,
+    "test": "a group on a country horse on horses are lined street corner during the day",
+    "refs": [
+      "a group of men riding horses on a street",
+      "a group of uniformed men on horseback ride down a street",
+      "a white horse carrying a uniformed man is followed by several other black horses walking down",
+      "a parade led by a soldier on a white horse",
+      "a gentleman in military dress clothes on a white horse with other men on horses behind"
+    ]
+  },
+  {
+    "image_id": 39,
+    "test": "some people are on riding horses on horses",
+    "refs": [
+      "a group of men riding horses on a street",
+      "a group of uniformed men on horseback ride down a street",
+      "a white horse carrying a uniformed man is followed by several other black horses walking down",
+      "a parade led by a soldier on a white horse",
+      "a gentleman in military dress clothes on a white horse with other men on horses behind"
+    ]
+  },
+  {
+    "image_id": 40,
+    "test": "two men are in the middle of busses cones lights",
+    "refs": [
+      "the two buses are parked along the curb",
+      "there are two busses parked behind each other",
+      "two UNK is standing in front of the metro bus",
+      "two men standing in front of a bus on the side of the road",
+      "a police officer standing near a very large city bus"
+    ]
+  },
+  {
+    "image_id": 41,
+    "test": "a city bus is coming down the street",
+    "refs": [
+      "the two buses are parked along the curb",
+      "there are two busses parked behind each other",
+      "two UNK is standing in front of the metro bus",
+      "two men standing in front of a bus on the side of the road",
+      "a police officer standing near a very large city bus"
+    ]
+  },
+  {
+    "image_id": 42,
+    "test": "a man and son walking onto a bus wait to get off",
+    "refs": [
+      "the two buses are parked along the curb",
+      "there are two busses parked behind each other",
+      "two UNK is standing in front of the metro bus",
+      "two men standing in front of a bus on the side of the road",
+      "a police officer standing near a very large city bus"
+    ]
+  },
+  {
+    "image_id": 43,
+    "test": "a bus driver is seen behind he bus the bus stop",
+    "refs": [
+      "the two buses are parked along the curb",
+      "there are two busses parked behind each other",
+      "two UNK is standing in front of the metro bus",
+      "two men standing in front of a bus on the side of the road",
+      "a police officer standing near a very large city bus"
+    ]
+  },
+  {
+    "image_id": 44,
+    "test": "this is a transit bus with a guy standing down between front",
+    "refs": [
+      "the two buses are parked along the curb",
+      "there are two busses parked behind each other",
+      "two UNK is standing in front of the metro bus",
+      "two men standing in front of a bus on the side of the road",
+      "a police officer standing near a very large city bus"
+    ]
+  },
+  {
+    "image_id": 45,
+    "test": "a blue and white airplane flying in the sky",
+    "refs": [
+      "an american airlines passenger jet takes off from an airport",
+      "a large commercial airplane taking off into the sky",
+      "american airlines 747 jet very soon after takeoff",
+      "a large plane is pointed upward after take off",
+      "a passenger plane that belongs to american airlines taking off"
+    ]
+  },
+  {
+    "image_id": 46,
+    "test": "chrome airplane in the preparing commercial airliner with its gear overhead",
+    "refs": [
+      "an american airlines passenger jet takes off from an airport",
+      "a large commercial airplane taking off into the sky",
+      "american airlines 747 jet very soon after takeoff",
+      "a large plane is pointed upward after take off",
+      "a passenger plane that belongs to american airlines taking off"
+    ]
+  },
+  {
+    "image_id": 47,
+    "test": "there is a jet airliner flying in the of the sky",
+    "refs": [
+      "an american airlines passenger jet takes off from an airport",
+      "a large commercial airplane taking off into the sky",
+      "american airlines 747 jet very soon after takeoff",
+      "a large plane is pointed upward after take off",
+      "a passenger plane that belongs to american airlines taking off"
+    ]
+  },
+  {
+    "image_id": 48,
+    "test": "a jumbo plane flies through the clouds in the blue sky",
+    "refs": [
+      "an american airlines passenger jet takes off from an airport",
+      "a large commercial airplane taking off into the sky",
+      "american airlines 747 jet very soon after takeoff",
+      "a large plane is pointed upward after take off",
+      "a passenger plane that belongs to american airlines taking off"
+    ]
+  },
+  {
+    "image_id": 49,
+    "test": "a airplane is gliding off into the sky",
+    "refs": [
+      "an american airlines passenger jet takes off from an airport",
+      "a large commercial airplane taking off into the sky",
+      "american airlines 747 jet very soon after takeoff",
+      "a large plane is pointed upward after take off",
+      "a passenger plane that belongs to american airlines taking off"
+    ]
+  },
+  {
+    "image_id": 50,
+    "test": "a group of people flying kites in a park",
+    "refs": [
+      "a blue kite is flying in a field",
+      "people at a park with kites that have characters on them",
+      "colorful kites with different UNK fly in a park",
+      "different kites flying around in a field with a bunch of people",
+      "some children are flying large kites in the park"
+    ]
+  },
+  {
+    "image_id": 51,
+    "test": "a group of people flying kites in a park",
+    "refs": [
+      "a blue kite is flying in a field",
+      "people at a park with kites that have characters on them",
+      "colorful kites with different UNK fly in a park",
+      "different kites flying around in a field with a bunch of people",
+      "some children are flying large kites in the park"
+    ]
+  },
+  {
+    "image_id": 52,
+    "test": "a group of people flying kites in a park",
+    "refs": [
+      "a blue kite is flying in a field",
+      "people at a park with kites that have characters on them",
+      "colorful kites with different UNK fly in a park",
+      "different kites flying around in a field with a bunch of people",
+      "some children are flying large kites in the park"
+    ]
+  },
+  {
+    "image_id": 53,
+    "test": "a colorful kite flying in the air above a crowd",
+    "refs": [
+      "a blue kite is flying in a field",
+      "people at a park with kites that have characters on them",
+      "colorful kites with different UNK fly in a park",
+      "different kites flying around in a field with a bunch of people",
+      "some children are flying large kites in the park"
+    ]
+  },
+  {
+    "image_id": 54,
+    "test": "a colorful kite is being flown in a park",
+    "refs": [
+      "a blue kite is flying in a field",
+      "people at a park with kites that have characters on them",
+      "colorful kites with different UNK fly in a park",
+      "different kites flying around in a field with a bunch of people",
+      "some children are flying large kites in the park"
+    ]
+  },
+  {
+    "image_id": 55,
+    "test": "a parking meter sitting on the side of a street",
+    "refs": [
+      "a parking meter stands in front of a building entrance",
+      "a parking meter sitting in front of a building next to a handicap sign",
+      "a parking meter on the sidewalk near handicapped access signs",
+      "a parking meter sitting in front of a handicap entrance",
+      "a double parking meter on the sidewalk with a wheelchair ramp behind it"
+    ]
+  },
+  {
+    "image_id": 56,
+    "test": "a parking meter sitting next to a parking meter",
+    "refs": [
+      "a parking meter stands in front of a building entrance",
+      "a parking meter sitting in front of a building next to a handicap sign",
+      "a parking meter on the sidewalk near handicapped access signs",
+      "a parking meter sitting in front of a handicap entrance",
+      "a double parking meter on the sidewalk with a wheelchair ramp behind it"
+    ]
+  },
+  {
+    "image_id": 57,
+    "test": "a parking meter sitting next to a parking meter",
+    "refs": [
+      "a parking meter stands in front of a building entrance",
+      "a parking meter sitting in front of a building next to a handicap sign",
+      "a parking meter on the sidewalk near handicapped access signs",
+      "a parking meter sitting in front of a handicap entrance",
+      "a double parking meter on the sidewalk with a wheelchair ramp behind it"
+    ]
+  },
+  {
+    "image_id": 58,
+    "test": "a parking meter sitting on the side of a road",
+    "refs": [
+      "a parking meter stands in front of a building entrance",
+      "a parking meter sitting in front of a building next to a handicap sign",
+      "a parking meter on the sidewalk near handicapped access signs",
+      "a parking meter sitting in front of a handicap entrance",
+      "a double parking meter on the sidewalk with a wheelchair ramp behind it"
+    ]
+  },
+  {
+    "image_id": 59,
+    "test": "a parking meter sitting next to a parking meter",
+    "refs": [
+      "a parking meter stands in front of a building entrance",
+      "a parking meter sitting in front of a building next to a handicap sign",
+      "a parking meter on the sidewalk near handicapped access signs",
+      "a parking meter sitting in front of a handicap entrance",
+      "a double parking meter on the sidewalk with a wheelchair ramp behind it"
+    ]
+  },
+  {
+    "image_id": 60,
+    "test": "a man and a woman sitting at a table with a plate of food",
+    "refs": [
+      "a couple of young men sitting down sharing a pizza",
+      "two men pose for the camera with pizza and beer",
+      "two young men are eating pizza with beer",
+      "two friends having pizza and beer in a cafe",
+      "two men sit in a booth with pizza in front of them"
+    ]
+  },
+  {
+    "image_id": 61,
+    "test": "a man and a woman sitting at a table with a plate of food",
+    "refs": [
+      "a couple of young men sitting down sharing a pizza",
+      "two men pose for the camera with pizza and beer",
+      "two young men are eating pizza with beer",
+      "two friends having pizza and beer in a cafe",
+      "two men sit in a booth with pizza in front of them"
+    ]
+  },
+  {
+    "image_id": 62,
+    "test": "a man and a woman sitting at a table with a plate of food",
+    "refs": [
+      "a couple of young men sitting down sharing a pizza",
+      "two men pose for the camera with pizza and beer",
+      "two young men are eating pizza with beer",
+      "two friends having pizza and beer in a cafe",
+      "two men sit in a booth with pizza in front of them"
+    ]
+  },
+  {
+    "image_id": 63,
+    "test": "a man and a woman sitting at a table with a plate of food",
+    "refs": [
+      "a couple of young men sitting down sharing a pizza",
+      "two men pose for the camera with pizza and beer",
+      "two young men are eating pizza with beer",
+      "two friends having pizza and beer in a cafe",
+      "two men sit in a booth with pizza in front of them"
+    ]
+  },
+  {
+    "image_id": 64,
+    "test": "a man and a woman sitting at a table with a plate of food",
+    "refs": [
+      "a couple of young men sitting down sharing a pizza",
+      "two men pose for the camera with pizza and beer",
+      "two young men are eating pizza with beer",
+      "two friends having pizza and beer in a cafe",
+      "two men sit in a booth with pizza in front of them"
+    ]
+  },
+  {
+    "image_id": 65,
+    "test": "a man jumping a skate board in the air",
+    "refs": [
+      "a young man jumping a skateboard over another young man",
+      "a man is jumping his skate board while another man sits",
+      "kid sits on the edge while another jumps over riding a skateboard",
+      "the skateboarder is jumping over the other boy",
+      "a person on a skateboard jumping up in the air"
+    ]
+  },
+  {
+    "image_id": 66,
+    "test": "a man jumping a skateboard over a wooden bench",
+    "refs": [
+      "a young man jumping a skateboard over another young man",
+      "a man is jumping his skate board while another man sits",
+      "kid sits on the edge while another jumps over riding a skateboard",
+      "the skateboarder is jumping over the other boy",
+      "a person on a skateboard jumping up in the air"
+    ]
+  },
+  {
+    "image_id": 67,
+    "test": "a man jumping a skateboard over a ramp",
+    "refs": [
+      "a young man jumping a skateboard over another young man",
+      "a man is jumping his skate board while another man sits",
+      "kid sits on the edge while another jumps over riding a skateboard",
+      "the skateboarder is jumping over the other boy",
+      "a person on a skateboard jumping up in the air"
+    ]
+  },
+  {
+    "image_id": 68,
+    "test": "a man jumping a skateboard over a wooden ramp",
+    "refs": [
+      "a young man jumping a skateboard over another young man",
+      "a man is jumping his skate board while another man sits",
+      "kid sits on the edge while another jumps over riding a skateboard",
+      "the skateboarder is jumping over the other boy",
+      "a person on a skateboard jumping up in the air"
+    ]
+  },
+  {
+    "image_id": 69,
+    "test": "a man jumping a skate board in the air",
+    "refs": [
+      "a young man jumping a skateboard over another young man",
+      "a man is jumping his skate board while another man sits",
+      "kid sits on the edge while another jumps over riding a skateboard",
+      "the skateboarder is jumping over the other boy",
+      "a person on a skateboard jumping up in the air"
+    ]
+  },
+  {
+    "image_id": 70,
+    "test": "a man is sitting on a bench in the street",
+    "refs": [
+      "a skateboarder jumping over an obstacle at sunset",
+      "a man doing a skateboard jump over a red structure",
+      "a skateboarder jumping a orange construction pile in a parking lot",
+      "a young man wearing blue jeans hovers on his skateboard in the air over a red",
+      "a person jumping on a skateboard over something"
+    ]
+  },
+  {
+    "image_id": 71,
+    "test": "a man is on a skateboard on a street",
+    "refs": [
+      "a skateboarder jumping over an obstacle at sunset",
+      "a man doing a skateboard jump over a red structure",
+      "a skateboarder jumping a orange construction pile in a parking lot",
+      "a young man wearing blue jeans hovers on his skateboard in the air over a red",
+      "a person jumping on a skateboard over something"
+    ]
+  },
+  {
+    "image_id": 72,
+    "test": "a man is doing a trick on a skateboard",
+    "refs": [
+      "a skateboarder jumping over an obstacle at sunset",
+      "a man doing a skateboard jump over a red structure",
+      "a skateboarder jumping a orange construction pile in a parking lot",
+      "a young man wearing blue jeans hovers on his skateboard in the air over a red",
+      "a person jumping on a skateboard over something"
+    ]
+  },
+  {
+    "image_id": 73,
+    "test": "a man is riding a skateboard down a street",
+    "refs": [
+      "a skateboarder jumping over an obstacle at sunset",
+      "a man doing a skateboard jump over a red structure",
+      "a skateboarder jumping a orange construction pile in a parking lot",
+      "a young man wearing blue jeans hovers on his skateboard in the air over a red",
+      "a person jumping on a skateboard over something"
+    ]
+  },
+  {
+    "image_id": 74,
+    "test": "a man is sitting on a skateboard in the middle of the street",
+    "refs": [
+      "a skateboarder jumping over an obstacle at sunset",
+      "a man doing a skateboard jump over a red structure",
+      "a skateboarder jumping a orange construction pile in a parking lot",
+      "a young man wearing blue jeans hovers on his skateboard in the air over a red",
+      "a person jumping on a skateboard over something"
+    ]
+  },
+  {
+    "image_id": 75,
+    "test": "a bear walking in the grass near a tree",
+    "refs": [
+      "an animal on a grassy field of some sort",
+      "a large black bear walking in the grass",
+      "a bear that is walking back towards the trees",
+      "animal walking in a heavily UNK clearing in a wooded area",
+      "a large black bear walking through a forest"
+    ]
+  },
+  {
+    "image_id": 76,
+    "test": "a bear walking through a field of grass",
+    "refs": [
+      "an animal on a grassy field of some sort",
+      "a large black bear walking in the grass",
+      "a bear that is walking back towards the trees",
+      "animal walking in a heavily UNK clearing in a wooded area",
+      "a large black bear walking through a forest"
+    ]
+  },
+  {
+    "image_id": 77,
+    "test": "a bear walking in the woods near a tree",
+    "refs": [
+      "an animal on a grassy field of some sort",
+      "a large black bear walking in the grass",
+      "a bear that is walking back towards the trees",
+      "animal walking in a heavily UNK clearing in a wooded area",
+      "a large black bear walking through a forest"
+    ]
+  },
+  {
+    "image_id": 78,
+    "test": "a bear walking in the grass near a tree",
+    "refs": [
+      "an animal on a grassy field of some sort",
+      "a large black bear walking in the grass",
+      "a bear that is walking back towards the trees",
+      "animal walking in a heavily UNK clearing in a wooded area",
+      "a large black bear walking through a forest"
+    ]
+  },
+  {
+    "image_id": 79,
+    "test": "a bear walking in the grass near trees",
+    "refs": [
+      "an animal on a grassy field of some sort",
+      "a large black bear walking in the grass",
+      "a bear that is walking back towards the trees",
+      "animal walking in a heavily UNK clearing in a wooded area",
+      "a large black bear walking through a forest"
+    ]
+  },
+  {
+    "image_id": 80,
+    "test": "a plane flying in the sky over a sunset",
+    "refs": [
+      "a large jetliner flying through a cloudy sky over trees",
+      "a large airplane flying high up in the sky",
+      "a plane flying through the sky as the sun is setting",
+      "an airplane is landing near some trees at sunset",
+      "an airplane in the sky over a group of trees"
+    ]
+  },
+  {
+    "image_id": 81,
+    "test": "a plane is flying over a large sunset",
+    "refs": [
+      "a large jetliner flying through a cloudy sky over trees",
+      "a large airplane flying high up in the sky",
+      "a plane flying through the sky as the sun is setting",
+      "an airplane is landing near some trees at sunset",
+      "an airplane in the sky over a group of trees"
+    ]
+  },
+  {
+    "image_id": 82,
+    "test": "a large airplane flying over a cloudy sky",
+    "refs": [
+      "a large jetliner flying through a cloudy sky over trees",
+      "a large airplane flying high up in the sky",
+      "a plane flying through the sky as the sun is setting",
+      "an airplane is landing near some trees at sunset",
+      "an airplane in the sky over a group of trees"
+    ]
+  },
+  {
+    "image_id": 83,
+    "test": "a large airplane flying over a cloudy sky",
+    "refs": [
+      "a large jetliner flying through a cloudy sky over trees",
+      "a large airplane flying high up in the sky",
+      "a plane flying through the sky as the sun is setting",
+      "an airplane is landing near some trees at sunset",
+      "an airplane in the sky over a group of trees"
+    ]
+  },
+  {
+    "image_id": 84,
+    "test": "a large airplane flying over a cloudy sky",
+    "refs": [
+      "a large jetliner flying through a cloudy sky over trees",
+      "a large airplane flying high up in the sky",
+      "a plane flying through the sky as the sun is setting",
+      "an airplane is landing near some trees at sunset",
+      "an airplane in the sky over a group of trees"
+    ]
+  },
+  {
+    "image_id": 85,
+    "test": "a group of men riding horses down a street",
+    "refs": [
+      "a group of men riding horses on a street",
+      "a group of uniformed men on horseback ride down a street",
+      "a white horse carrying a uniformed man is followed by several other black horses walking down",
+      "a parade led by a soldier on a white horse",
+      "a gentleman in military dress clothes on a white horse with other men on horses behind"
+    ]
+  },
+  {
+    "image_id": 86,
+    "test": "a group of people on horses on a city street",
+    "refs": [
+      "a group of men riding horses on a street",
+      "a group of uniformed men on horseback ride down a street",
+      "a white horse carrying a uniformed man is followed by several other black horses walking down",
+      "a parade led by a soldier on a white horse",
+      "a gentleman in military dress clothes on a white horse with other men on horses behind"
+    ]
+  },
+  {
+    "image_id": 87,
+    "test": "a group of men riding horses down a street",
+    "refs": [
+      "a group of men riding horses on a street",
+      "a group of uniformed men on horseback ride down a street",
+      "a white horse carrying a uniformed man is followed by several other black horses walking down",
+      "a parade led by a soldier on a white horse",
+      "a gentleman in military dress clothes on a white horse with other men on horses behind"
+    ]
+  },
+  {
+    "image_id": 88,
+    "test": "a group of people riding horses down a street",
+    "refs": [
+      "a group of men riding horses on a street",
+      "a group of uniformed men on horseback ride down a street",
+      "a white horse carrying a uniformed man is followed by several other black horses walking down",
+      "a parade led by a soldier on a white horse",
+      "a gentleman in military dress clothes on a white horse with other men on horses behind"
+    ]
+  },
+  {
+    "image_id": 89,
+    "test": "a group of men riding horses down a street",
+    "refs": [
+      "a group of men riding horses on a street",
+      "a group of uniformed men on horseback ride down a street",
+      "a white horse carrying a uniformed man is followed by several other black horses walking down",
+      "a parade led by a soldier on a white horse",
+      "a gentleman in military dress clothes on a white horse with other men on horses behind"
+    ]
+  },
+  {
+    "image_id": 90,
+    "test": "a man is standing next to a bus",
+    "refs": [
+      "the two buses are parked along the curb",
+      "there are two busses parked behind each other",
+      "two UNK is standing in front of the metro bus",
+      "two men standing in front of a bus on the side of the road",
+      "a police officer standing near a very large city bus"
+    ]
+  },
+  {
+    "image_id": 91,
+    "test": "a man and a bus on a city street",
+    "refs": [
+      "the two buses are parked along the curb",
+      "there are two busses parked behind each other",
+      "two UNK is standing in front of the metro bus",
+      "two men standing in front of a bus on the side of the road",
+      "a police officer standing near a very large city bus"
+    ]
+  },
+  {
+    "image_id": 92,
+    "test": "a man and a woman are standing in the street",
+    "refs": [
+      "the two buses are parked along the curb",
+      "there are two busses parked behind each other",
+      "two UNK is standing in front of the metro bus",
+      "two men standing in front of a bus on the side of the road",
+      "a police officer standing near a very large city bus"
+    ]
+  },
+  {
+    "image_id": 93,
+    "test": "a man and a woman are standing in front of a bus",
+    "refs": [
+      "the two buses are parked along the curb",
+      "there are two busses parked behind each other",
+      "two UNK is standing in front of the metro bus",
+      "two men standing in front of a bus on the side of the road",
+      "a police officer standing near a very large city bus"
+    ]
+  },
+  {
+    "image_id": 94,
+    "test": "a man and a woman are standing outside of a bus",
+    "refs": [
+      "the two buses are parked along the curb",
+      "there are two busses parked behind each other",
+      "two UNK is standing in front of the metro bus",
+      "two men standing in front of a bus on the side of the road",
+      "a police officer standing near a very large city bus"
+    ]
+  },
+  {
+    "image_id": 95,
+    "test": "a large jetliner flying through a cloudy sky",
+    "refs": [
+      "an american airlines passenger jet takes off from an airport",
+      "a large commercial airplane taking off into the sky",
+      "american airlines 747 jet very soon after takeoff",
+      "a large plane is pointed upward after take off",
+      "a passenger plane that belongs to american airlines taking off"
+    ]
+  },
+  {
+    "image_id": 96,
+    "test": "a large airplane flying in the sky with a sky background",
+    "refs": [
+      "an american airlines passenger jet takes off from an airport",
+      "a large commercial airplane taking off into the sky",
+      "american airlines 747 jet very soon after takeoff",
+      "a large plane is pointed upward after take off",
+      "a passenger plane that belongs to american airlines taking off"
+    ]
+  },
+  {
+    "image_id": 97,
+    "test": "a large airplane flying through the air with a sky background",
+    "refs": [
+      "an american airlines passenger jet takes off from an airport",
+      "a large commercial airplane taking off into the sky",
+      "american airlines 747 jet very soon after takeoff",
+      "a large plane is pointed upward after take off",
+      "a passenger plane that belongs to american airlines taking off"
+    ]
+  },
+  {
+    "image_id": 98,
+    "test": "a large jetliner flying through a cloudy blue sky",
+    "refs": [
+      "an american airlines passenger jet takes off from an airport",
+      "a large commercial airplane taking off into the sky",
+      "american airlines 747 jet very soon after takeoff",
+      "a large plane is pointed upward after take off",
+      "a passenger plane that belongs to american airlines taking off"
+    ]
+  },
+  {
+    "image_id": 99,
+    "test": "a large jetliner flying through a cloudy sky",
+    "refs": [
+      "an american airlines passenger jet takes off from an airport",
+      "a large commercial airplane taking off into the sky",
+      "american airlines 747 jet very soon after takeoff",
+      "a large plane is pointed upward after take off",
+      "a passenger plane that belongs to american airlines taking off"
+    ]
+  }
+]
