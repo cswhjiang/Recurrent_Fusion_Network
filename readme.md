@@ -9,7 +9,7 @@ This repository includes the implementations for [Recurrent Fusion Network for I
 
 ## Training
 ### 0. Feature extraction
-The scripts are included in ```data/feature_extraction```.  Generate flipped and cropped images to perform data augmentation, download pre-trained models and extract feature. All extracted featuers are in the ```data``` directory.
+All scripts for feature extraction are included in ```data/feature_extraction```. Please generate flipped and cropped images to perform data augmentation, download pre-trained models and extract features with the scripts. All extracted featuers should be put in the ```data``` directory.
 
 ### 1. Train with cross entropy loss
 ```bash train_recurrent_fusion_model.sh```
