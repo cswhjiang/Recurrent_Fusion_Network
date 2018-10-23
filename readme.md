@@ -1,5 +1,5 @@
 # Recurrent Fusion Network for Image Captioning
-![framework](https://github.com/cswhjiang/Recurrent_Fusion_Network/fig/framework.png)
+![framework](https://github.com/cswhjiang/Recurrent_Fusion_Network/blob/master/fig/framework.png)
 This repository includes the implementations for [Recurrent Fusion Network for Image Captioning](https://arxiv.org/abs/1807.09986). 
 
 ## Requirements
