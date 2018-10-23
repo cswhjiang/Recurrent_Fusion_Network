@@ -1,3 +1,4 @@
+#!/usr/bin/env bash
 seed=100
 gpu_id=0
 

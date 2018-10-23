@@ -1,3 +1,4 @@
+#!/usr/bin/env bash
 nohup python3 -u eval_ensemble.py \
   --beam_size 1 \
   --feature_type feat_array \

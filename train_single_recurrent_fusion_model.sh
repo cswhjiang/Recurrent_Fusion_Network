@@ -1,3 +1,4 @@
+#!/usr/bin/env bash
 MODEL='recurrent_fusion_model'
 FEAT='feat_array'
 

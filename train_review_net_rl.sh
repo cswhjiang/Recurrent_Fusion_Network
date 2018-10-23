@@ -1,3 +1,4 @@
+#!/usr/bin/env bash
 seed=124
 num_gpu=8
 
