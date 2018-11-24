@@ -1,1 +1,1 @@
-Use the script ```generate_crop_images.py``` and ```generate_flip_images.py``` to obtain cropped and flipped images to augment the dataset. 
+Use the scripts ```generate_crop_images.py``` and ```generate_flip_images.py``` to obtain cropped and flipped images to augment the dataset. The paths in the scripts are needed to be modified according to your enviroment.
